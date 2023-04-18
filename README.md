@@ -5,6 +5,6 @@ This is a Python script that exports Detectron2 predictions and imports them int
 ## Prerequisites
 To use this script, you'll need to have the following installed:
 
-Python 3.6 or later
-Detectron2
-CVAT
+- Python 3.6 or later
+- Detectron2
+- CVAT
